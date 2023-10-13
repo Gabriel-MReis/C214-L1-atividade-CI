@@ -1,5 +1,7 @@
 # Gerenciador de Tarefas
 
+[![CI Class](https://github.com/Gabriel-MReis/C214-L1-atividade-CI/actions/workflows/CI.yml/badge.svg)](https://github.com/Gabriel-MReis/C214-L1-atividade-CI/actions/workflows/CI.yml)
+
 O Gerenciador de Tarefas é uma aplicação simples que permite adicionar, atualizar, excluir e visualizar tarefas. Ele também fornece uma interface amigável para organizar suas atividades.
 
 ## Funcionalidades
